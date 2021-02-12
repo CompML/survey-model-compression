@@ -10,7 +10,7 @@ Survey for Neural Network Pruning
 - [x] Gale, T., Elsen, E., and Hooker, S. The state of sparsity in deep neural networks, 2019.
 - [x] Zhu, M. H., & Gupta, S. (2018). To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression.
 - [x] Liu, Z., Sun, M., Zhou, T., Huang, G., & Darrell, T. (2018, September). Rethinking the Value of Network Pruning. In International Conference on Learning Representations.
-- [x] Frankle, J. and Carbin, M. The lottery ticket hypothesis: Finding sparse, trainable neural networks. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net, 2019. 
+- [x] Frankle, J. and Carbin, M. The lottery ticket hypothesis: Finding sparse, trainable neural networks. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019.
 - [x] Molchanov, D., Ashukha, A., and Vetrov, D. Variational dropout sparsifies deep neural networks. In Proceedings of the 34th International Conference on Machine Learning-Volume 70, pp. 2498–2507. JMLR. org, 2017.
 - [x] Lee, N., Ajanthan, T., and Torr, P. H. S. Snip: singleshot network pruning based on connection sensitivity. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6- 9, 2019.
 - [x] Liu, Z., Li, J., Shen, Z., Huang, G., Yan, S., and Zhang, C. Learning efficient convolutional networks through network slimming. In Proceedings of the IEEE International Conference on Computer Vision, pp. 2736–2744, 2017.
