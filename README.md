@@ -16,3 +16,4 @@ Survey for Neural Network Pruning
 - [x] Liu, Z., Li, J., Shen, Z., Huang, G., Yan, S., and Zhang, C. Learning efficient convolutional networks through network slimming. In Proceedings of the IEEE International Conference on Computer Vision, pp. 2736–2744, 2017.
 - [x] Luo, J.-H., Wu, J., and Lin, W. Thinet: A filter level pruning method for deep neural network compression. In Proceedings of the IEEE international conference on computer vision, pp. 5058–5066, 2017.
 - [x] Kim, W., Kim, S., Park, M., & Jeon, G. (2020). Neuron Merging: Compensating for Pruned Neurons. Advances in Neural Information Processing Systems, 33.
+- [x] Blalock, D., Ortiz, J. J. G., Frankle, J., & Guttag, J. (2020). What is the state of neural network pruning?. arXiv preprint arXiv:2003.03033.
