@@ -12,7 +12,7 @@ Survey for Neural Network Pruning
 - [x] Liu, Z., Sun, M., Zhou, T., Huang, G., & Darrell, T. (2018, September). Rethinking the Value of Network Pruning. In International Conference on Learning Representations.
 - [x] Frankle, J. and Carbin, M. The lottery ticket hypothesis: Finding sparse, trainable neural networks. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019. OpenReview.net, 2019. 
 - [x] Molchanov, D., Ashukha, A., and Vetrov, D. Variational dropout sparsifies deep neural networks. In Proceedings of the 34th International Conference on Machine Learning-Volume 70, pp. 2498–2507. JMLR. org, 2017.
-- [x] Lee, N., Ajanthan, T., and Torr, P. H. S. Snip: singleshot network pruning based on connection sensitivity. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6- 9, 2019. OpenReview.net, 2019b.
+- [x] Lee, N., Ajanthan, T., and Torr, P. H. S. Snip: singleshot network pruning based on connection sensitivity. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6- 9, 2019.
 - [x] Liu, Z., Li, J., Shen, Z., Huang, G., Yan, S., and Zhang, C. Learning efficient convolutional networks through network slimming. In Proceedings of the IEEE International Conference on Computer Vision, pp. 2736–2744, 2017.
 - [x] Luo, J.-H., Wu, J., and Lin, W. Thinet: A filter level pruning method for deep neural network compression. In Proceedings of the IEEE international conference on computer vision, pp. 5058–5066, 2017.
 - [x] Kim, W., Kim, S., Park, M., & Jeon, G. (2020). Neuron Merging: Compensating for Pruned Neurons. Advances in Neural Information Processing Systems, 33.
