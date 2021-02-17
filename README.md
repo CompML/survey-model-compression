@@ -33,6 +33,7 @@ Survey for Neural Network Pruning
 - [ ] Li, Baopu, et al. "AutoPruning for Deep Neural Network with Dynamic Channel Masking." arXiv preprint arXiv:2010.12021 (2020).
 - [ ] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 - [ ] Ding, Xiaohan, et al. "Auto-balanced filter pruning for efficient convolutional neural networks." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32. No. 1. 2018.
+- [x] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
 ### Lottery ticket hypothesis
 - [ ] Brix, Christopher, Parnia Bahar, and Hermann Ney. "Successfully applying the stabilized lottery ticket hypothesis to the transformer architecture." arXiv preprint arXiv:2005.03454 (2020).
