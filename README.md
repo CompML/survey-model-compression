@@ -28,6 +28,8 @@ Survey for Neural Network Pruning
 - [x] Han, S., Pool, J., Tran, J., and Dally, W. Learning both weights and connections for efficient neural network. In Advances in neural information processing systems, pp. 1135–1143, 2015.
 
 ### Auto Network Pruning
+- [ ] Zhang, Chaopeng, Yuesheng Zhu, and Zhiqiang Bai. 2020. “MetaAMC: Meta Learning and AutoML for Model Compression.” In Twelfth International Conference on Digital Image Processing (ICDIP 2020), 11519:115191U. International Society for Optics and Photonics.
+- [ ] Wang, Tianzhe, Kuan Wang, Han Cai, Ji Lin, Zhijian Liu, Hanrui Wang, Yujun Lin, and Song Han. 2020. “Apq: Joint Search for Network Architecture, Pruning and Quantization Policy.” In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2078–87. openaccess.thecvf.com.
 - [x] Luo, Jian-Hao, and Jianxin Wu. "Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference." Pattern Recognition 107 (2020): 107461.
 - [x] Lin, Mingbao, et al. "Channel pruning via automatic structure search." arXiv preprint arXiv:2001.08565 (2020).
 - [ ] Li, Baopu, et al. "AutoPruning for Deep Neural Network with Dynamic Channel Masking." arXiv preprint arXiv:2010.12021 (2020).
