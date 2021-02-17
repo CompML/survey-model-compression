@@ -27,7 +27,7 @@ Survey for Neural Network Pruning
 - [x] Han, S., Pool, J., Tran, J., and Dally, W. Learning both weights and connections for efficient neural network. In Advances in neural information processing systems, pp. 1135–1143, 2015.
 
 ### Auto Network Pruning
-- [ ] Luo, Jian-Hao, and Jianxin Wu. "Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference." Pattern Recognition 107 (2020): 107461.
+- [x] Luo, Jian-Hao, and Jianxin Wu. "Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference." Pattern Recognition 107 (2020): 107461.
 - [ ] Lin, Mingbao, et al. "Channel pruning via automatic structure search." arXiv preprint arXiv:2001.08565 (2020).
 - [ ] Li, Baopu, et al. "AutoPruning for Deep Neural Network with Dynamic Channel Masking." arXiv preprint arXiv:2010.12021 (2020).
 - [ ] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
