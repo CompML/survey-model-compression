@@ -33,7 +33,7 @@ Survey for Neural Network Pruning
 - [x] Luo, Jian-Hao, and Jianxin Wu. "Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference." Pattern Recognition 107 (2020): 107461.
 - [x] Lin, Mingbao, et al. "Channel pruning via automatic structure search." arXiv preprint arXiv:2001.08565 (2020).
 - [ ] Li, Baopu, et al. "AutoPruning for Deep Neural Network with Dynamic Channel Masking." arXiv preprint arXiv:2010.12021 (2020).
-- [ ] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+- [x] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 - [ ] Ding, Xiaohan, et al. "Auto-balanced filter pruning for efficient convolutional neural networks." Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 32. No. 1. 2018.
 - [x] He, Yihui, et al. "Amc: Automl for model compression and acceleration on mobile devices." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
