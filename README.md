@@ -6,7 +6,7 @@ Survey for Model Compression
 CVPR2021 Accepted Papers 
 - [ ] Learning Student Networks in the Wild
 - [ ] ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network
-- [ ] RepVGG: Making VGG-style ConvNets Great Again
+- [x] RepVGG: Making VGG-style ConvNets Great Again
 - [ ] Coordinate Attention for Efficient Mobile Network Design
 - [ ] Manifold Regularized Dynamic Network Pruning
 - [ ] Neural Response Interpretation through the Lens of Critical Pathways
