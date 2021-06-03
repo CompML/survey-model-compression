@@ -4,7 +4,9 @@ Survey for Model Compression
 
 ## CVPR2021
 CVPR2021 Accepted Papers 
+- [x] RepVGG: Making VGG-style ConvNets Great Again
 - [ ] Manifold Regularized Dynamic Network Pruning
+- [ ] Dynamic Slimmable Network
 - [ ] Neural Response Interpretation through the Lens of Critical Pathways
 - [ ] Riggable 3D Face Reconstruction via In-Network Optimization
 - [ ] Towards Compact CNNs via Collaborative Compression
@@ -17,13 +19,14 @@ CVPR2021 Accepted Papers
 - [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
 - [ ] Complementary Relation Contrastive Distillation
 - [ ] Distilling Knowledge via Knowledge Review
+- [ ] Distilling Object Detectors via Decoupled Features
 - [ ] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
 - [ ] CDFI: Compression-Driven Network Design for Frame Interpolation
 
 Not Model Compression??
+- [ ] Teachers Do More Than Teach: Compressing Image-to-Image Models
 - [ ] Learning Student Networks in the Wild
 - [x] ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network
-- [x] RepVGG: Making VGG-style ConvNets Great Again
 - [ ] Coordinate Attention for Efficient Mobile Network Design
 
 ## Survey for Neural Network Pruning
