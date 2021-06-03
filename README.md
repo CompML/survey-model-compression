@@ -1,14 +1,24 @@
-# survey-neural-network-pruning
+# Model Compression
+Survey for Model Compression
+
+
+## CVPR2021
+CVPR2021 Accepted Papers 
+- [ ] xx
+- [ ] xx
+
+
+## Survey for Neural Network Pruning
 Survey for Neural Network Pruning
 
-## Survey
+### Survey
 - [ ] Liang, Tailin, et al. "Pruning and Quantization for Deep Neural Network Acceleration: A Survey." arXiv preprint arXiv:2101.09671 (2021).
 - [ ] Xu, Sheng, et al. "Convolutional Neural Network Pruning: A Survey." 2020 39th Chinese Control Conference (CCC). IEEE, 2020.
 - [ ] Liu, Jiayi, et al. "Pruning Algorithms to Accelerate Convolutional Neural Networks for Edge Applications: A Survey." arXiv preprint arXiv:2005.04275 (2020).
 - [ ] Cheng, Yu, et al. "A survey of model compression and acceleration for deep neural networks." arXiv preprint arXiv:1710.09282 (2017).
 
 
-## Awesome Neural Network Pruning
+### Awesome Neural Network Pruning
 - [x] Kim, W., Kim, S., Park, M., & Jeon, G. (2020). Neuron Merging: Compensating for Pruned Neurons. Advances in Neural Information Processing Systems, 33.
 - [x] Blalock, D., Ortiz, J. J. G., Frankle, J., & Guttag, J. (2020). What is the state of neural network pruning?. arXiv preprint arXiv:2003.03033.
 - [ ] Dong, Xuanyi, and Yi Yang. "Network pruning via transformable architecture search." arXiv preprint arXiv:1905.09717 (2019).
