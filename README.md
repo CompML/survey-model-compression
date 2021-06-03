@@ -78,3 +78,6 @@ Survey for Neural Network Pruning
 - [ ] Zhou, Hattie, et al. "Deconstructing lottery tickets: Zeros, signs, and the supermask." arXiv preprint arXiv:1905.01067 (2019).
 - [ ] Yu, Haonan, et al. "Playing the lottery with rewards and multiple languages: lottery tickets in rl and nlp." arXiv preprint arXiv:1906.02768 (2019).
 - [x] Frankle, J. and Carbin, M. The lottery ticket hypothesis: Finding sparse, trainable neural networks. In 7th International Conference on Learning Representations, ICLR 2019, New Orleans, LA, USA, May 6-9, 2019.
+
+### Dynamic Network Pruning
+- [ ] Xitong Gao, Yiren Zhao, Lukasz Dudziak, Robert Mullins,and Cheng-zhong Xu.   Dynamic channel pruning:  Featureboosting and suppression.   InInternational Conference onLearning Representations, 2018.
