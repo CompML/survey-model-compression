@@ -40,6 +40,7 @@ Survey for Neural Network Pruning
 
 
 ### Awesome Neural Network Pruning
+- [ ] Lin, T., Stich, S. U., Barba, L., Dmitriev, D., and Jaggi, M. Dynamic model pruning with feedback. In International Conference on Learning Representations, 2020.
 - [x] Kim, W., Kim, S., Park, M., & Jeon, G. (2020). Neuron Merging: Compensating for Pruned Neurons. Advances in Neural Information Processing Systems, 33.
 - [x] Blalock, D., Ortiz, J. J. G., Frankle, J., & Guttag, J. (2020). What is the state of neural network pruning?. arXiv preprint arXiv:2003.03033.
 - [ ] Dong, Xuanyi, and Yi Yang. "Network pruning via transformable architecture search." arXiv preprint arXiv:1905.09717 (2019).
