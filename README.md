@@ -4,9 +4,24 @@ Survey for Model Compression
 
 ## CVPR2021
 CVPR2021 Accepted Papers 
-- [ ] xx
-- [ ] xx
-
+- [ ] ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network
+- [ ] RepVGG: Making VGG-style ConvNets Great Again
+- [ ] Coordinate Attention for Efficient Mobile Network Design
+- [ ] Manifold Regularized Dynamic Network Pruning
+- [ ] Neural Response Interpretation through the Lens of Critical Pathways
+- [ ] Riggable 3D Face Reconstruction via In-Network Optimization
+- [ ] Towards Compact CNNs via Collaborative Compression
+- [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
+- [ ] Fast and Accurate Model Scaling
+- [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
+- [ ] Diversifying Sample Generation for Accurate Data-Free Quantization
+- [ ] Zero-shot Adversarial Quantization
+- [ ] Network Quantization with Element-wise Gradient Scaling
+- [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
+- [ ] Complementary Relation Contrastive Distillation
+- [ ] Distilling Knowledge via Knowledge Review
+- [ ] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
+- [ ] CDFI: Compression-Driven Network Design for Frame Interpolation
 
 ## Survey for Neural Network Pruning
 Survey for Neural Network Pruning
