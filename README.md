@@ -6,7 +6,7 @@ Survey for Model Compression
 CVPR2021 Accepted Papers 
 - [x] RepVGG: Making VGG-style ConvNets Great Again
 - [x] Manifold Regularized Dynamic Network Pruning
-- [ ] Dynamic Slimmable Network
+- [x] Dynamic Slimmable Network
 - [ ] Neural Response Interpretation through the Lens of Critical Pathways
 - [ ] Riggable 3D Face Reconstruction via In-Network Optimization
 - [ ] Towards Compact CNNs via Collaborative Compression
