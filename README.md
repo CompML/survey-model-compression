@@ -11,7 +11,6 @@ CVPR2021 Accepted Papers
 - [ ] Riggable 3D Face Reconstruction via In-Network Optimization
 - [x] Towards Compact CNNs via Collaborative Compression
 - [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
-- [ ] Fast and Accurate Model Scaling
 - [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
 - [ ] Diversifying Sample Generation for Accurate Data-Free Quantization
 - [ ] Zero-shot Adversarial Quantization
@@ -26,6 +25,7 @@ CVPR2021 Accepted Papers
 Not Model Compression??
 - [ ] Teachers Do More Than Teach: Compressing Image-to-Image Models
 - [ ] Learning Student Networks in the Wild
+- [ ] Fast and Accurate Model Scaling
 - [x] ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network
 - [ ] Coordinate Attention for Efficient Mobile Network Design
 
