@@ -9,7 +9,7 @@ CVPR2021 Accepted Papers
 - [x] Dynamic Slimmable Network
 - [ ] Neural Response Interpretation through the Lens of Critical Pathways
 - [ ] Riggable 3D Face Reconstruction via In-Network Optimization
-- [ ] Towards Compact CNNs via Collaborative Compression
+- [x] Towards Compact CNNs via Collaborative Compression
 - [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
 - [ ] Fast and Accurate Model Scaling
 - [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
