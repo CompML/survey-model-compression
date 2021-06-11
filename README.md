@@ -14,7 +14,7 @@ CVPR2021 Accepted Papers
 - [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
 - [ ] Diversifying Sample Generation for Accurate Data-Free Quantization
 - [ ] Zero-shot Adversarial Quantization
-- [ ] Network Quantization with Element-wise Gradient Scaling
+- [x] Network Quantization with Element-wise Gradient Scaling
 - [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
 - [ ] Complementary Relation Contrastive Distillation
 - [ ] Distilling Knowledge via Knowledge Review
