@@ -12,7 +12,7 @@ CVPR2021 Accepted Papers
 - [x] Towards Compact CNNs via Collaborative Compression
 - [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
 - [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
-- [ ] Diversifying Sample Generation for Accurate Data-Free Quantization
+- [x] Diversifying Sample Generation for Accurate Data-Free Quantization
 - [x] Zero-shot Adversarial Quantization
 - [x] Network Quantization with Element-wise Gradient Scaling
 - [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
