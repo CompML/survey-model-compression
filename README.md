@@ -13,7 +13,7 @@ CVPR2021 Accepted Papers
 - [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
 - [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
 - [ ] Diversifying Sample Generation for Accurate Data-Free Quantization
-- [ ] Zero-shot Adversarial Quantization
+- [x] Zero-shot Adversarial Quantization
 - [x] Network Quantization with Element-wise Gradient Scaling
 - [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
 - [ ] Complementary Relation Contrastive Distillation
