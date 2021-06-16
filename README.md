@@ -17,7 +17,7 @@ CVPR2021 Accepted Papers
 - [x] Network Quantization with Element-wise Gradient Scaling
 - [ ] Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation
 - [ ] Complementary Relation Contrastive Distillation
-- [ ] Distilling Knowledge via Knowledge Review
+- [x] Distilling Knowledge via Knowledge Review
 - [ ] Distilling Object Detectors via Decoupled Features
 - [ ] Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks
 - [ ] CDFI: Compression-Driven Network Design for Frame Interpolation
