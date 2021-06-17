@@ -11,7 +11,7 @@ CVPR2021 Accepted Papers
 - [ ] Riggable 3D Face Reconstruction via In-Network Optimization
 - [x] Towards Compact CNNs via Collaborative Compression
 - [ ] BCNet: Searching for Network Width with Bilaterally Coupled Network
-- [ ] Learnable Companding Quantization for Accurate Low-bit Neural Networks
+- [x] Learnable Companding Quantization for Accurate Low-bit Neural Networks
 - [x] Diversifying Sample Generation for Accurate Data-Free Quantization
 - [x] Zero-shot Adversarial Quantization
 - [x] Network Quantization with Element-wise Gradient Scaling
